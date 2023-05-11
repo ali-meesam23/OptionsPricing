@@ -1,6 +1,8 @@
 # Options
 Option pricing and predicting underlying price swings using black scholes
 
+** Requires intergration with QuestradeAPI or other data sources that provides options and its underlying**
+
 ![alt text](Pattern.png)
 
 ## Models
